@@ -7,7 +7,7 @@
 1 == 2
 
 # 2 Greater than (or equal to)
-1 > 2 
+1 > 3 
 2 >= 2	
 
 # 3. Less than (or equal to)
